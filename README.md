@@ -2,6 +2,10 @@
 
 **Course:** ISYS 814 — Strategic IT | SFSU MBA | Team C  
 **Stack:** Python · pandas · matplotlib · openpyxl · Jupyter
+## Team
+- [@bryanG2518](https://github.com/bryanG2518)
+- [@AungMin211](https://github.com/AungMin211)
+- [@Mohammed-S07](https://github.com/Mohammed-S07)
 
 ---
 
@@ -66,7 +70,7 @@ fabricco-market-analysis/
 ├── build_analysis_package_xlsx.py           # Builds the Excel output from source data
 ├── FabricCo_Analysis_Package.xlsx           # Output: tables, correlations, embedded charts
 ├── DataChallenge1_Report_TeamC.pdf          # Final report submitted to Dr. Shahrasbi
-└── charts/                                  # 11 chart PNGs at 240 dpi
+└── charts/                                  # 10 chart PNGs at 240 dpi
 ```
 
 ---
