@@ -38,9 +38,6 @@ Internally, volume is the wrong lens. All five products sell within 8% of each o
 
 ## Charts
 
-**UK: Scarves vs. Swimsuits**  
-![UK seasonality](charts/uk_swimsuit_scarf_seasonality.png)
-
 **NZ: Scarves vs. Swimsuits**  
 ![NZ seasonality](charts/nz_swimsuit_scarf_seasonality.png)
 
